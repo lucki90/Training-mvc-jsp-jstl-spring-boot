@@ -1,4 +1,4 @@
-package pl.lucky.trainingmvcjspjstlspringboot;
+package pl.lucky;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

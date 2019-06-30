@@ -1,4 +1,4 @@
-package pl.lucky.trainingmvcjspjstlspringboot;
+package pl.lucky;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
